@@ -1,0 +1,2 @@
+describe("sequence-stream", function() {
+});

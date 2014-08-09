@@ -1,0 +1,31 @@
+{
+  "name": "sequence-stream",
+  "version": "0.0.0",
+  "description": "gather a sequence of streams into a single stream",
+  "main": "sequence-stream.js",
+  "scripts": {
+    "test": "mocha -R spec sequence-stream.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/justinvdm/sequence-stream.git"
+  },
+  "keywords": [
+    "stream",
+    "sequence",
+    "gather",
+    "coalesce"
+  ],
+  "author": "justinvdm",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/justinvdm/sequence-stream/issues"
+  },
+  "homepage": "https://github.com/justinvdm/sequence-stream",
+  "devDependencies": {
+    "mocha": "^1.19.0"
+  },
+  "dependencies": {
+    "q-stream": "^0.1.0"
+  }
+}
