@@ -1,6 +1,6 @@
 {
   "name": "sequence-stream",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "gather a sequence of streams into a single stream",
   "main": "sequence-stream.js",
   "scripts": {
